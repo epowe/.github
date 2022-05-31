@@ -1,6 +1,6 @@
-## Epowe
-
 ![untitled4](https://user-images.githubusercontent.com/66160055/171216774-caec4909-571e-40ce-bdd7-bc9f69a6310b.png)
+# Hello, welcome to Epowe's github! <img src="https://user-images.githubusercontent.com/66160055/171218765-1cc48ba3-e889-4316-8148-9976844bf05e.gif" width=30>
+
 
 <!--
 
